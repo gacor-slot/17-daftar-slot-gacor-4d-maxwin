@@ -1,7 +1,7 @@
 {
   "name": "17-daftar-slot-gacor-4d-maxwin",
   "main": "./lib/17-daftar-slot-gacor-4d-maxwin",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Amintoto pusat perkumpulan 17 daftar situs bo slot gacor 4d mudah maxwin terbaru 2022 di Indonesia dengan metode terbaik paling baru",
   "keywords": [
     "slot gacor",
@@ -18,6 +18,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
