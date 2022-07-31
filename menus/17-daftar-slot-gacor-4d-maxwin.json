@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle 17-daftar-slot-gacor-4d-maxwin",
+        "command": "17-daftar-slot-gacor-4d-maxwin:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "17-daftar-slot-gacor-4d-maxwin",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "17-daftar-slot-gacor-4d-maxwin:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
